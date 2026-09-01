@@ -36,3 +36,15 @@
 
 
 # Задание 3
+
+1. Dockerfile
+![3](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20155302.png)
+
+2. Сборка образа
+![3](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20155450.png)
+
+3. Отправка в реестр
+![3](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20155515.png)
+
+4. Образ в облаке
+![3](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20155634.png)
