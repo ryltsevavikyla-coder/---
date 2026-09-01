@@ -57,3 +57,19 @@
 
 ![4](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20165017.png)
 
+
+# Задание 5
+
+1. Код Lockbox
+![5](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20171622.png)
+
+2. Пароль из Lockbox
+![5](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20171638.png)
+
+3. Секрет в облаке
+![5](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20171036.png)
+
+4. Приложение не сломалось
+![5](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20171608.png)
+
+
