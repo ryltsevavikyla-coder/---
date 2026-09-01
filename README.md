@@ -48,3 +48,12 @@
 
 4. Образ в облаке
 ![3](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20155634.png)
+
+
+# Задание 4
+
+![4](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20164723.png)
+
+
+![4](https://github.com/ryltsevavikyla-coder/---/blob/main/Screenshot%202026-09-01%20165017.png)
+
