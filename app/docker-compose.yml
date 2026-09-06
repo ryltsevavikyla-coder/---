@@ -1,0 +1,13 @@
+services:
+  web:
+    image: webapp:latest
+    container_name: diploma-web
+    build: .
+    ports:
+      - "80:80"
+    environment:
+      MYSQL_HOST: ${MYSQL_HOST}
+      MYSQL_USER: ${MYSQL_USER:-appuser}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-appdb}
+    restart: unless-stopped

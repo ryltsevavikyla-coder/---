@@ -7,6 +7,22 @@ terraform {
       version = ">= 0.140.0"
     }
   }
+
+  backend "s3" {
+    endpoints = {
+      s3 = "https://storage.yandexcloud.net"
+    }
+    bucket = "viktoria-diploma-tfstate"
+    region = "ru-central1"
+    key    = "diploma/terraform.tfstate"
+
+    skip_region_validation      = true
+    skip_credentials_validation = true
+    skip_requesting_account_id  = true
+    skip_s3_checksum            = true
+
+    use_lockfile = true
+  }
 }
 
 provider "yandex" {
